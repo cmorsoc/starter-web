@@ -10,8 +10,9 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-Nueva sección
+Nueva descripción de esta sección
 
 ## How to contribute
 
 e-mail to cmorsoc@gmail.com
+Añadiendo una última línea: xxxx@xxx.com
