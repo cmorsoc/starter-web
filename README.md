@@ -14,6 +14,8 @@ Nueva descripción de esta sección
 
 ## How to contribute
 
+HAz un fork y apoya, mamón. No seas un mierda como los de la AAGC, que no dan
+un puto palo al agua.
 e-mail to cmorsoc@gmail.com
 Añadiendo una última línea: xxxx@xxx.com
 
