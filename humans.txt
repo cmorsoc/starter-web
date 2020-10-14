@@ -8,7 +8,7 @@ Carlos Morales	cmorsoc@gmail.com	cmorsoc
 
 # THANKS
 
-cambiando!!!    <name>
+REcambiando!!!    <name>
 
 # TECHNOLOGY COLOPHON
 
