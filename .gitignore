@@ -1,2 +1,35 @@
 fichero_basura
 *.log
+<!DOCTYPE html>
+<!--
+	Copyright  2020 Git. Carlos
+	A tomar por culo la segunda fila del master 
+-->
+<head>
+<<<<<<< HEAD
+	<title>A VERY RESPECTFULL WEBSITE</title>
+=======
+	<title>Título totalmente distinto</title>
+>>>>>>> bigtrouble cambiando simple.html y liandola parda
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+			Añadiendo texto al fichero después del commit antes del
+			rebase y modificando el título
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Company 2014</p>
+	</footer>
+</body>
+</html>
